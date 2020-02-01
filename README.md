@@ -9,16 +9,16 @@ for mock backend deployed [here](https://ts-react-redux-backend-123936.herokuapp
 source code [here](https://github.com/alias8/ts-react-redux-example-backend).
 * Frontend (this repo) deployed [here](https://ts-react-redux-frontend-123936.herokuapp.com).
 
-#Login with: 
+Login with: 
 
 username: user0 password: user0
 
 username: user1 password: user1
 
-NotCompleted:
-2. CSS requires some refining
+Not Completed:
+1. CSS requires some refining
 
-3. Currently login uses cleartext passwords, obviously
+2. Currently login uses cleartext passwords, obviously
 would be using salted hashed passwords in production
 
 Technical decisions made:
